@@ -8,7 +8,7 @@ import flixel.util.FlxColor;
 import flixel.tweens.FlxTween;
 import flixel.tweens.FlxEase;
 import flixel.system.FlxAssets;
-import flixel.system.FlxSound;
+import flixel.sound.FlxSound;
 
 import textbox.Textbox;
 import textbox.Settings;
